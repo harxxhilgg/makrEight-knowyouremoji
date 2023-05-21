@@ -4,7 +4,8 @@ This is a [React](https://reactjs.org/) app Know-Your-Emoji created using [CodeS
 
 ## Demo
 
-A live demo of the app can be found at [codesandbox-know-your-emoji](https://codesandbox.io/s/markeight-knowyouremoji-exrj62?file=/src/App.js)
+- Live demo of the app can be found at [codesandbox-know-your-emoji](https://exrj62.csb.app/)
+- To make improvements to the code in this Sandbox, you can fork the [Sandbox](https://codesandbox.io/s/markeight-knowyouremoji-exrj62?file=/src/App.js) environment and proceed with the desired changes.
 
 ## Description
 
