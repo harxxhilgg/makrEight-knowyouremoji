@@ -13,7 +13,7 @@ If you come across an emoji whose meaning you're unsure of, you can either type 
 
 ## Limitations
 
-This dictionary has limited number of emojis/meaning so try not to type the emoji, just select one of the mentioned emoji
+Our dictionary has limited number of emojis/meaning so try not to type the emoji, just select one of the mentioned emoji
 
 ## Usage
 
